@@ -1,0 +1,32 @@
+﻿  Source.cpp
+D:\Universidad\5to Semestre\Análisis de Algoritmos\Semana 4\Right_Algorithms\Source.cpp(52,60): warning C4244: '=': conversión de '_Rep' a 'double'; posible pérdida de datos
+          with
+          [
+              _Rep=__int64
+          ]
+D:\Universidad\5to Semestre\Análisis de Algoritmos\Semana 4\Right_Algorithms\Source.cpp(59,60): warning C4244: '=': conversión de '_Rep' a 'double'; posible pérdida de datos
+          with
+          [
+              _Rep=__int64
+          ]
+D:\Universidad\5to Semestre\Análisis de Algoritmos\Semana 4\Right_Algorithms\Source.cpp(66,60): warning C4244: '=': conversión de '_Rep' a 'double'; posible pérdida de datos
+          with
+          [
+              _Rep=__int64
+          ]
+D:\Universidad\5to Semestre\Análisis de Algoritmos\Semana 4\Right_Algorithms\Source.cpp(73,60): warning C4244: '=': conversión de '_Rep' a 'double'; posible pérdida de datos
+          with
+          [
+              _Rep=__int64
+          ]
+D:\Universidad\5to Semestre\Análisis de Algoritmos\Semana 4\Right_Algorithms\Source.cpp(80,60): warning C4244: '=': conversión de '_Rep' a 'double'; posible pérdida de datos
+          with
+          [
+              _Rep=__int64
+          ]
+D:\Universidad\5to Semestre\Análisis de Algoritmos\Semana 4\Right_Algorithms\Source.cpp(87,60): warning C4244: '=': conversión de '_Rep' a 'double'; posible pérdida de datos
+          with
+          [
+              _Rep=__int64
+          ]
+  Right_Algorithms.vcxproj -> D:\Universidad\5to Semestre\Análisis de Algoritmos\Semana 4\Right_Algorithms\Debug\Right_Algorithms.exe
