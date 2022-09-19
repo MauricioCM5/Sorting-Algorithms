@@ -5,7 +5,6 @@ int Max_num(int array[], int n) {
 	return m;
 }
 
-//arreglo de listas enlazadas wtf
 //Procesa los digitos
 
 void miniSort(int array[], const int n, int digit) {
