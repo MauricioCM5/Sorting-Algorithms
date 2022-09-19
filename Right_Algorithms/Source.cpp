@@ -90,7 +90,7 @@ void running(int array[], int origin[], int n, double* times) {
 
 
 int main() {
-	const int size = 1500, multi = 100;
+	const int size = 15000, multi = 1000;
 	int origin[size];
 	int num = multi;
 
@@ -112,7 +112,7 @@ int main() {
 		cout << "----------------------------------------\n";
 	}
 
-	for (i = 0; i < times_size; i++)
-		print_arr2(times[i], 6); cout << "\n";
+	//for (i = 0; i < times_size; i++)
+	//	print_arr2(times[i], 6); cout << "\n";
 
 }
