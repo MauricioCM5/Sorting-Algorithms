@@ -7,7 +7,7 @@ void merge(int c[], int ini, int fin, int mid) {
     int* a = new int[sA];
     int* b = new int[sB];
     int i, ma = 0, mb = 0, counter = ini;
-    // cout << "HERE\n";
+    
     for (i = 0; i < sA; i++)
         a[i] = c[ini + i];
     for (i = 0; i < sB; i++)
