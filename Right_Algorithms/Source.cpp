@@ -90,7 +90,7 @@ void running(int array[], int origin[], int n, double* times) {
 
 
 int main() {
-	const int size = 12000, multi = 8000;
+	const int size = 120000, multi = 8000;
 	int origin[size];
 	int num = multi;
 
