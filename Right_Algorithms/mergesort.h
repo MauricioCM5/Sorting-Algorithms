@@ -35,7 +35,6 @@ void merge(int c[], int ini, int fin, int mid) {
 
 
 void mergeSort(int array[], int ini, int fin) {
-    
     if (ini >= fin)
         return;
     int mid = ini + (fin - ini) / 2;
