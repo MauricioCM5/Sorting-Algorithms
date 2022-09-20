@@ -91,13 +91,13 @@ void running(int array[], int origin[], int n, double* times) {
 
 int main() {
 	const int size = 120000, multi = 8000;
-	int origin[size];
+	int * origin = new int [size];
 	int num = multi;
 
 	const int times_size = size / multi;
 	double times[times_size][6];
 	generate_big_array(origin, size);
-	int test[size];
+	int *test = new int [size];
 
 	cout << "\tCOMPUTATIONAL TIME\n";
 	cout << "-For 6 different sorting algorithms\n\n";
@@ -114,5 +114,7 @@ int main() {
 
 	//for (i = 0; i < times_size; i++)
 	//	print_arr2(times[i], 6); cout << "\n";
+	delete[] origin;
+	delete[] test;
 
 }
